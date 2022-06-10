@@ -24,6 +24,7 @@ Usage
 
 An example of a command that will be suitable for most users for opening the report in QtCreator:
 
+
 ```
 plog-converter -a GA:1,2 -t tasklist -o /path/to/project.tasks /path/to/project.log
 ```
